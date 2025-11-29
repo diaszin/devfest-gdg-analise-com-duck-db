@@ -98,5 +98,10 @@
     "simbolo": "$U",
     "codigo": "UYU",
     "nome": "Peso Uruguaio"
+  },
+{
+    "simbolo": "HK$",
+    "codigo": "HKD",
+    "nome": "Dolar de Hong Kong"
   }
 ]
